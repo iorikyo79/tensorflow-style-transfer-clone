@@ -240,3 +240,4 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/pre_trained_model/imagenet-vgg-verydeep-19.mat
